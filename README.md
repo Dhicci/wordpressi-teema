@@ -1,0 +1,2 @@
+# wordpressi-teema
+ Veebiprogrammeerimise kodutöö
